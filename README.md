@@ -1,7 +1,8 @@
 # How to use Docker
 
-Segue a lista de comandos docker e sua utilidade:
+## Segue a lista de comandos docker e sua utilidade:
 
+```
 docker attach  – Acessar dentro do container e trabalhar a partir dele.
 docker build   – A partir de instruções de um arquivo Dockerfile eu possa criar uma imagem.
 docker commit  – Cria uma imagem a partir de um container.
@@ -48,5 +49,6 @@ docker update  – Atualiza a configuração de um ou mais containers.
 docker version – Exibe as versões de API, Client e Server do host.
 docker volume  – Gerenciamento dos volumes no Docker.
 docker wait    – Aguarda o retorno da execução de um container para iniciar esse container.
+```
 
-Obs.: É possível ver todos os comandos que o Docker possui, tendo o Docker instalado, basta digitar no terminal:  # docker --help
+- Obs.: É possível ver todos os comandos que o Docker possui, tendo o Docker instalado, basta digitar no terminal:  # docker --help
