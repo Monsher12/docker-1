@@ -1,6 +1,6 @@
 # How to use Docker
 
-## Segue a lista de comandos docker e sua utilidade:
+## Segue lista de comandos Docker e sua utilidades:
 
 ```
 docker attach  – Acessar dentro do container e trabalhar a partir dele.
